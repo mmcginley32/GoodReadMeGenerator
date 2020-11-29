@@ -15,7 +15,7 @@ A command-line application that dynamically generates a README.md from a user's 
   ## Usage
   Examples of how to use this program: 
   
-  ![home]()
+  ![home](https://github.com/mmcginley32/GoodReadMeGenerator/blob/master/assets/demo.gif)
 
 
 
